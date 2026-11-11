@@ -1,6 +1,6 @@
 # Ovi Demetrian
 
-**AV production and systems specialist since 1994 · Phoenix 
+**AV production and systems specialist since 1994 · Phoenix -
 Rooms, shows and the screens in them, end to end: hardware, live production, design, and now AI.  
 Concepts by Ovi, built with Claude. *Lumină, nu vrăjeală.* (Light, not deception.)
 
