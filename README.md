@@ -2,7 +2,8 @@
 
 **AV production and systems specialist since 1994 · Phoenix - Arizona, 
  
-Media Rooms, shows and multiple screens in them, end to end: hardware, live production, design, AI driven. 
+Media Rooms, shows and multiple screens in them, end to end: hardware, live production, design, with AI driven architecture.
+ 
 Concepts by Ovi, built with Claude. *Lumină, nu vrăjeală.* (Light, not deception.)
 
 ### Start here
