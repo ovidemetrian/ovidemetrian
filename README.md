@@ -4,7 +4,7 @@
 
 I design the controls because I know what's behind them: 20+ years of AV, smart-home and live-production systems, and now mobile UX/UI for music, home control and AI.
 
-Concepts by Ovi, built with Claude. *Lumină, nu vrăjeală.* (Light, not deception.)
+Concepts by Ovi, built with Claude. *Lumină, nu vrăjeală.* (Light, not trickery, not deception.)
 
 ### Start here
 
@@ -21,7 +21,7 @@ Concepts by Ovi, built with Claude. *Lumină, nu vrăjeală.* (Light, not decept
 
 ### The thinking
 
-7. **[SYNTHIOSIS](https://ovidemetrian.github.io/SYNTHIOSIS/)**: creation through coexistence, the hub for the whole framework
+7. **[SYNTHIOSIS](https://ovidemetrian.github.io/SYNTHIOSIS/)**: creation through coexistence. Swipe through the whole framework, one idea per screen
 8. **[GGI Control Panel](https://ovidemetrian.github.io/GGI-GENIAL-GENUINE-INTELLIGENCE/)**: every AI side by side, and the human picks
 9. **[Ten Laws of AI](https://10lawsofai.com)**: honest AI, written down
 
@@ -38,4 +38,4 @@ Concepts by Ovi, built with Claude. *Lumină, nu vrăjeală.* (Light, not decept
 
 ovidemetrian@gmail.com · [LinkedIn](https://www.linkedin.com/in/ovidiudemetrian) · [Möbius Bar on YouTube](https://youtube.com/@mobiusbar)
 
-> *"If you don't struggle with a thought, the thought is not yours."*
+> *"If you did not struggle with the thought, the thought is not yours."*
