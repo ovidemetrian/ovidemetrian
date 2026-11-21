@@ -14,7 +14,7 @@ Concepts by Ovi, built with Claude. *Lumină, nu vrăjeală.* (Light, not tricke
     - **[Crew Radio](https://ovidemetrian.github.io/directors-desk/radio.html)**: the phone replaces the walkie-talkie. Silent calls, COPY, Done, Can't, problem reports, and a playbook for each of 10 roles
     - **Show flow**: seven steps from the artist's rundown to rehearsal, a connection check and READY TO GO on every screen, then live. Tested end to end, 20 of 20 checks passed
     - **Rooms**: a fleet of meeting rooms where Claude finds the fault and a human approves the fix
-    - Next: a show box on an Intel NUC that links every phone with no internet and bridges to Q-SYS
+    - **[Show box](https://github.com/ovidemetrian/directors-desk/tree/main/showbox)** (new): a local server for an Intel NUC that links the desk and every crew phone with no internet, and bridges to a Q-SYS Core over QRC. Running against a mock Core; Q-SYS Designer test next
 4. **[Run of Show](https://ovidemetrian.github.io/my-future-past/anthropic/)**: my résumé, cued like a live production
 5. **[ShowGate](https://ovidemetrian.github.io/my-future-past/showgate/)**: Claude and Q-SYS with the crew's rules built in, 16 of 16 checks passed
 6. **[The Future Past](https://ovidemetrian.github.io/my-future-past/)**: my complete portfolio, read aloud
